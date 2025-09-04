@@ -1,0 +1,46 @@
+
+#contenedor{
+
+    width:90%;
+    margin:auto;
+    background-color:#858886;
+}
+
+#encabezado{
+    text-align:center;
+    background-color: #e4dd0a;
+    align-self:center;
+}
+
+#menu{
+    background-color: #827e7e;
+    text-align: center;
+}
+
+#derecha{
+    float: right;
+    background-color: #b4b3a8;
+    width: 80%;
+}
+
+#derecha img {
+    max-width: 100;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+#izquierda{
+    background-color: #635e5e;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+
+
+#piepagina{
+    clear: both;
+    background-color: #8f0884;
+    text-align: center;
+}
